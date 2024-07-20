@@ -1,1 +1,2 @@
-# frontendpro-hw-65
+# ДЗ 65. TodoList Updated
+Переписати туду ліст так як ми робили на уроці 
